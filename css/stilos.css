@@ -1,0 +1,8 @@
+#documentos{
+    height: 60vh;
+    overflow-y: scroll;
+}
+
+.modal-dialog {
+    max-width: 80%;
+  }
